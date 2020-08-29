@@ -1,0 +1,14 @@
+.block-img{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    float: left;
+}
+.block-img > img{
+    width: 100px;
+    height: 100px;
+}
+.block-input{
+    width: 100px !important;
+}
+.none-left{float: left;width: 100%;}
